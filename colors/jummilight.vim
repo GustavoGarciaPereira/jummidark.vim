@@ -15,7 +15,7 @@ let g:colors_name = "jummilight"
 "| value| value     | Name         |              || value| value     | Name         |Term NR-16
 "|---------------------------------| -----------------------------------------------------
 "|  254 | #e4e4e4   | highGray1    | background   ||  254 | #e4e4e4   | highGray1    | 7 LightGray, foreground
-"|  252 | #d0d0d0   | highGray2    |               |  252 | #d0d0d0   | highGray2    |
+"|  252 | #d0d0d0   | highGray2    |              ||  252 | #d0d0d0   | highGray2    |
 "|  249 | #b2b2b2   | highGray3    |              ||  249 | #b2b2b2   | highGray3    |
 "|  245 | #8a8a8a   | highGray4    | selection    ||  245 | #8a8a8a   | highGray4    | 15 White
 "|  242 | #6c6c6c   | middleGray1  |              ||  242 | #6c6c6c   | middleGray1  |
